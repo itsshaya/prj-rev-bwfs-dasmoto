@@ -14,13 +14,13 @@ h2{
   font-size: 32px;
   color: white;
 }
-.brushes{
+#brushes{
   background-color: mediumspringgreen;
 }
-.frames{
+#frames{
   background-color: lightcoral;
 }
-.paint{
+#paint{
   background-color: skyblue;
 }
 .price{
